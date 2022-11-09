@@ -12,7 +12,7 @@
       "state": "New Jersey"
     },
     "website": "http://www.john-tawfik.com",
-    "resumedownload": "https://drive.google.com/file/d/1Hvxwc-Z1LEQq7YBSxzAOWJxhKHNUBAbP/view?usp=sharing",
+    "resumedownload": "https://drive.google.com/file/d/1S46vkOPdeyd28JomL7nD2urjRrv4MnSh/view?usp=sharing",
     "social": [
       {
         "name": "linkedin",
@@ -34,9 +34,15 @@
   "resume": {
     "work": [
       {
+        "company": "Ecoverse",
+        "title": "Software Engineer Intern ",
+        "years": "November 2022 - Present",
+        "description": "Working on the Event Infrastructure team using React, Solidity, TypeScript, and Firestore to create and optimize the campaign creation pipeline for brands."
+      },
+      {
         "company": "Freelancing",
         "title": "Freelancer",
-        "years": "April 2022 - Present",
+        "years": "March 2022 - Present",
         "description": "Completed multiple projects using technologies such as React Native, Solidity, Web3.js, Draft.js, and more."
       },
       {
