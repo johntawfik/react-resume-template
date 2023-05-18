@@ -4,7 +4,7 @@
     "occupation": "Rutgers University Student",
     "description": "studying Computer Science and pursuing a minor in Politics, Philosophy, and Economics!",
     "image": "profilepic.jpg",
-    "bio": "I'm a current Rutgers University Student, Freelancer, and Egyptian-American! In my free time I love to hangout with friends, go to the gym, or read. My current read is Meditations by Marcus Aurelius, check it out!",
+    "bio": "I'm a current Rutgers University Student, Freelancer, and Egyptian-American! In my free time I love to hangout with friends, go to the gym, or read. My current read is Atomic Habits by James Clear, check it out!",
     "email": "johntawfik106@gmail.com",
     "phone": "732-277-4313",
     "address": {
@@ -16,7 +16,7 @@
     "social": [
       {
         "name": "linkedin",
-        "url": "www.linkedin.com/in/john-t-4a2385213",
+        "url": "https://www.linkedin.com/in/john-tawfik-/",
         "className": "fa fa-linkedin"
       },
       {
@@ -26,7 +26,7 @@
       },
       {
         "name": "github",
-        "url": "http://github.com/Jtawfik04",
+        "url": "https://github.com/johntawfik",
         "className": "fa fa-github"
       }
     ]
@@ -63,7 +63,7 @@
         "school": "Rutgers University",
         "degree": "Bachelors in Computer Science",
         "graduated": "September 2022 - May 2025",
-        "description": "I've learned a lot about myself by virtue of the challenges college provides. Besides the technologies I already know, I've been able to expand my understanding of Python and R. Beyond Computer Science, I've been able to learn more about numerous facets of the world, and meet amazing people from every walk of life."
+        "description": "I've learned a lot about myself by virtue of the challenges college provides. Besides the technologies I already know, I've been able to expand my understanding of C, Java, and JavaScript. Beyond Computer Science, I've been able to learn more about numerous facets of the world, and meet amazing people from every walk of life."
       }
     ],
     "skills": [
