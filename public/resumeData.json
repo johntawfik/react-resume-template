@@ -12,17 +12,12 @@
       "state": "New Jersey"
     },
     "website": "http://www.john-tawfik.com",
-    "resumedownload": "https://drive.google.com/file/d/1gNh_ia5OZOX-I9nco5LlHDKOFxR5H8A4/view?usp=sharing",
+    "resumedownload": "https://drive.google.com/file/d/1p5MlnRUuUrQO2A-v9Hy66nvVfR8Hl7YO/view?usp=sharing",
     "social": [
       {
         "name": "linkedin",
         "url": "https://www.linkedin.com/in/john-tawfik-/",
         "className": "fa fa-linkedin"
-      },
-      {
-        "name": "instagram",
-        "url": "http://instagram.com/tawfik.john",
-        "className": "fa fa-instagram"
       },
       {
         "name": "github",
@@ -34,9 +29,21 @@
   "resume": {
     "work": [
       {
+        "company": "HubSpot",
+        "title": "Software Engineer Intern ",
+        "years": "May 2024 - August 2024",
+        "description": "Working on HubSpot's Integrations!"
+      },
+      {
+        "company": "Rutgers University",
+        "title": "Research Assistant",
+        "years": "May 2023 - August 2023",
+        "description": "Working on AI for intelligent transportation."
+      },
+      {
         "company": "Ecoverse",
         "title": "Software Engineer Intern ",
-        "years": "November 2022 - Present",
+        "years": "November 2022 - May 2023",
         "description": "Working on the Event Infrastructure team using React, Solidity, TypeScript, and Firestore to create and optimize the campaign creation pipeline for brands."
       },
       {
