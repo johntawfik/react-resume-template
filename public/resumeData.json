@@ -2,13 +2,13 @@
   "main": {
     "name": "John Tawfik",
     "occupation": "Rutgers University Student",
-    "description": "studying Computer Science and pursuing a minor in Politics, Philosophy, and Economics!",
+    "description": "studying Computer Science!",
     "image": "profilepic.jpg",
-    "bio": "I'm a current Rutgers University Student, Freelancer, and Egyptian-American! In my free time I love to hangout with friends, go to the gym, or read. My current read is Atomic Habits by James Clear, check it out!",
+    "bio": "I'm a current Rutgers University Student, and Egyptian-American! In my free time I love to hangout with friends, go to the gym, play basketball or spikeball (I do competitive), or read. My current read is Atomic Habits by James Clear, check it out!",
     "email": "johntawfik106@gmail.com",
     "phone": "732-277-4313",
     "address": {
-      "city": "East Brunswick",
+      "city": "New Brunswick",
       "state": "New Jersey"
     },
     "website": "http://www.john-tawfik.com",
@@ -38,7 +38,7 @@
         "company": "Rutgers University",
         "title": "Research Assistant",
         "years": "May 2023 - August 2023",
-        "description": "Working on AI for intelligent transportation."
+        "description": "Researching AI for intelligent transportation."
       },
       {
         "company": "Ecoverse",
@@ -70,33 +70,33 @@
         "school": "Rutgers University",
         "degree": "Bachelors in Computer Science",
         "graduated": "September 2022 - May 2025",
-        "description": "I've learned a lot about myself by virtue of the challenges college provides. Besides the technologies I already know, I've been able to expand my understanding of C, Java, and JavaScript. Beyond Computer Science, I've been able to learn more about numerous facets of the world, and meet amazing people from every walk of life."
+        "description": "I've learned a lot about myself by virtue of the challenges college provides. Besides the technologies I already know, I've been able to expand my understanding of C, Java, and JavaScript. Beyond Computer Science, I've been able to meet amazing people!"
       }
     ],
     "skills": [
       {
         "name": "Git",
-        "level": "60%"
+        "level": "80%"
       },
       {
-        "name": "ReactJs",
+        "name": "Java",
+        "level": "75%"
+      },
+      {
+        "name": "Python",
         "level": "70%"
       },
       {
-        "name": "CSS",
-        "level": "55%"
-      },
-      {
-        "name": "React Native",
+        "name": "React",
         "level": "70%"
       },
       {
-        "name": "Solidity",
+        "name": "Systems",
         "level": "72%"
       },
       {
-        "name": "Firebase",
-        "level": "70%"
+        "name": "Distributed Computing",
+        "level": "85%"
       }
     ]
   },
@@ -104,7 +104,7 @@
     "testimonials": [
       {
         "text": "John understood my thoughts on how to be an effective business leader, and I know that he will impart these concepts upon others as he continues down his path of life. I have no doubts that he possess the will and desire to be an effective and contributing member to the technology world.",
-        "user": "Clarke Thrasher , CEO of Helpt.app"
+        "user": "Clarke Thrasher, CEO of Helpt.app"
       }
     ]
   }
